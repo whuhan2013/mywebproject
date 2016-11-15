@@ -1,0 +1,45 @@
+ @import url(https://fonts.googleapis.com/css?family=Oswald:400,700|Droid+Serif:400,400italic);
+body {
+  background-color: #ecf0e7;
+  font-family: 'Droid Serif', serif;
+  font-size: 14px;
+  color: #8ea7c2;
+}
+
+a, a:focus, a:hover, a:visited {
+  color: #b8cca6;
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: left;
+  margin: 15px 0px;
+  font-size: 3em;
+  color: #FFF;
+}
+
+.mycontainer {
+  background-color: #746669;
+  
+  padding: 0px;
+  
+}
+
+.row {
+  width: 600px;
+  margin: 2px auto;
+  padding: 5px;
+  line-height: 50px;
+  text-align: center;
+}
+
+.buttonlay{
+  width: 900px;
+  margin: 30px auto;
+}
+
+.mybutton{
+  width: 290px;
+}
